@@ -27,3 +27,64 @@
 ```
 
 ## 출력 예시 1
+
+```
+      *        
+     ,$:       
+    $.         
+   $ $         
+  :  $         
+  $ =;.        
+  =  .     ~   
+  $ $;.:~* $   
+   ~      ,    
+           ~   
+  $       .$   
+   =      $    
+    $=~:=~     
+    **;$=      
+```
+
+정해(C++)
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "      *        \n";
+    cout << "     ,$:       \n";
+    cout << "    $.         \n";
+    cout << "   $ $         \n";
+    cout << "  :  $         \n";
+    cout << "  $ =;.        \n";
+    cout << "  =  .     ~   \n";
+    cout << "  $ $;.:~* $   \n";
+    cout << "   ~      ,    \n";
+    cout << "           ~   \n";
+    cout << "  $       .$   \n";
+    cout << "   =      $    \n";
+    cout << "    $=~:=~     \n";
+    cout << "    **;$=      \n";
+    return 0;
+}
+```
+
+정해(Python)
+
+```python
+print("      *        ")
+print("     ,$:       ")
+print("    $.         ")
+print("   $ $         ")
+print("  :  $         ")
+print("  $ =;.        ")
+print("  =  .     ~   ")
+print("  $ $;.:~* $   ")
+print("   ~      ,    ")
+print("           ~   ")
+print("  $       .$   ")
+print("   =      $    ")
+print("    $=~:=~     ")
+print("    **;$=      ")
+```
